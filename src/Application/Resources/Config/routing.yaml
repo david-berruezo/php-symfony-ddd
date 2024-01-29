@@ -1,0 +1,3 @@
+create_product:
+  path: /product
+  controller: App\Application\Controller\ProductController::create
